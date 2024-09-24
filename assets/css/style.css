@@ -1,0 +1,60 @@
+/*Tipografia*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    line-height: 1,3px;
+    letter-spacing: 1,0px;
+    font-weight: normal;
+
+}
+p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    line-height: 1,3px;
+    letter-spacing: 1,0px;
+    font-weight: normal;
+}
+
+span{
+    color:#3693ff;  
+    font-weight: bold;
+}
+
+
+.icone{
+    width: 24px;
+}
+.logo{
+    width: 15%;
+}
+.topbar{
+    padding: 15px 0px;
+    border-bottom: 1px solid #EDEDEE;
+}
+.hero{
+    background-color: antiquewhite;
+    width: 90%;
+    height: 50vh;
+}
+
+section{
+    margin: 5% 0%;
+}
+
+img{
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.carrossel{
+    border-radius: 23px;
+    border: 1 px solid black;
+    max-width: 70%;
+}
+
+.cta{
+    padding: 5% 0%;
+    
+    background:#3693ff;
+}
