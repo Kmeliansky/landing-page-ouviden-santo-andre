@@ -32,9 +32,17 @@ span{
 }
 
 /* hero */
+.hero{
+    background-image: url("/assets/images/unidade-em-sandro-andre.webp");
+    background-attachment: fixed;
+    height: 50vh;
+}
 
-
-
+.hero-card{
+    background-color: rgba(0, 0, 0, 0.77);
+    padding: 2%;
+    border-radius: 12px;
+}
 .icone{
     width: 24px;
 }
@@ -169,5 +177,5 @@ footer > .footer-item{
 
 
 @media (min-width: 576px) { 
-    
+
 }
